@@ -1,0 +1,6 @@
+image: store/intersystems/iris:2019.3.0.302.0-community
+ports:
+  - port: 52773
+vscode:
+  extensions:
+    - daimor.vscode-objectscript@0.7.12:GuYKJPM58uHfj5hnTpgliw==
